@@ -1,4 +1,5 @@
 <img src="https://www.openstack.org/assets/kata/kata-vertical-on-white.png" width="150">
+moo.
 
 * [About Kata Containers](#about-kata-containers)
 * [Community](#community)
